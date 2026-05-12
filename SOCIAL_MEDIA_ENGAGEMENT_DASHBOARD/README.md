@@ -65,12 +65,10 @@ SOCIAL_MEDIA_ENGAGEMENT_DASHBOARD/
 - Focus on highly engaging content categories.
 
 ## Dashboard Preview
+![Dashboard Preview](SOCIAL_MEDIA_ENGAGEMENT_DASHBOARD/dashboard/dashboard_preview.png)
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
-
-## Power BI Dashboard Link
-
-https://app.powerbi.com/links/sAkp0wfK9g?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare
+## Live Power BI Dashboard
+[Click Here to View Dashboard](https://app.powerbi.com/links/sAkp0wfK9g?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare)
 
 
 ## Author
